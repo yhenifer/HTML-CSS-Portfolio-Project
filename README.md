@@ -2,20 +2,25 @@
 
 ## Introduction
 
-- Fork and clone the repository HTML-CSS-Coursework-Week1 that includes the project to work
+
 - Follow the instructions on the Readme file, but instead of doing the same project you did on CodePen, do a personal portfolio, that you can use in the future adding all the projects you will do in this amazing course
-- Other students already did it, check their portfolios: Kristiina
-- Rename your repository to your-user-account.github.io and follow this instructions to make it public How to publish with github.io
 
 ## Steps
 
 The page should **NOT** use any framework like Bootstrap.
 
+### Step 1
+
+- Fork and clone this repository
+
 It should include the following elements:
 
 - The `.html` page and a linked `.css` file applies a consistent color scheme to links and text on your page.
 - A page header with a title and description for the site.
-- An projects section with three projects, each including a title, summary and a link.
+- A projects section with three projects, each including a title, summary and a link.
+
+### Step 2
+
 - A page footer containing info about you or the site.
 - Proper use of the semantic HTML tags we discussed.
 - Research the `:first-child` pseudo-class and use it to style the first article so that it stands out from the others.
@@ -25,3 +30,8 @@ It should include the following elements:
   <a href="blog-sketch-week-1.png" target="blank">
     <img src="blog-sketch-week-1.png" style="border: 1px solid #bababa;">
   </a>
+  
+  ### Step 3
+  
+- Other students already did it, check their portfolios: Kristiina
+- Rename your repository to your-user-account.github.io and follow this instructions to make it public How to publish with github.io
