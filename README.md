@@ -2,8 +2,8 @@
 
 ## Introduction
 
-
-- Follow the instructions on the Readme file, but instead of doing the same project you did on CodePen, do a personal portfolio, that you can use in the future adding all the projects you will do in this amazing course
+- The idea is to build a personal portfolio, that you can use in the future adding all the projects you will do in this amazing course
+- Here an [example](https://kristiinacwalina.github.io/)
 
 ## Steps
 
@@ -33,5 +33,4 @@ It should include the following elements:
   
   ### Step 3
   
-- Other students already did it, check their portfolios: Kristiina
-- Rename your repository to your-user-account.github.io and follow this instructions to make it public How to publish with github.io
+- Rename your repository to your-user-account.github.io and follow these instructions to make it public How to publish with github.io
