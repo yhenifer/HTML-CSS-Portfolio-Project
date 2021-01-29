@@ -33,4 +33,4 @@ It should include the following elements:
   
   ### Step 3
   
-- Rename your repository to your-user-account.github.io and follow these instructions to make it public How to publish with github.io
+- Rename your repository to your-user-account.github.io and follow [these instructions](https://migracode-barcelona.gitbook.io/syllabus/guides/git#how-to-publish-your-website-in-githubio) to make it public How to publish with github.io
