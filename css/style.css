@@ -1,8 +1,24 @@
-/**
- * Add your custom styles below
- * 
- * Remember: 
- * - Be organised, use comments and separate your styles into meaningful chunks
- *    for example: General styles, Navigation styles, Hero styles, Footer etc.
- * 
- */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(22, 21, 21);
+    width: 900px;
+    background-image:    linear-gradient( to top,
+    #fbc2eb 40%,
+    #a6c1ee 80%);
+    line-height: 15pt;}
+
+    
+    .proyecto1 img {
+    border: 5px solid #030303;
+   }
+
+   .proyecto2 img {
+    border: 5px solid #030303;
+   }
+
+   .proyecto3 img {
+    border: 5px solid #030303;
+   }
+.proyecto1 h3:first-child {color: rgb(247, 56, 9);
+    background-color: rgba(4, 5, 78, 0.438);
+    padding: 10px;}
